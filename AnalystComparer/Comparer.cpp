@@ -22,7 +22,7 @@ int Comparer::load(int argc, char* argv[])
     // TODO: Allocate a container, like an array of pointers, to hold the analysts
     //
     // Example Code:
-    // m_analysts = new Analyst*[m_analystCount];
+    m_analysts = new Analyst*[m_analystCount];
 
     int analystIndex = 0;
     for (int i = 0; i < m_analystCount; i++)
