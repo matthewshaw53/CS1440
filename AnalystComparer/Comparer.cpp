@@ -30,15 +30,15 @@ int Comparer::load(int argc, char* argv[])
         std::ifstream inputStream(argv[2 + analystIndex]);
 
         // TODO: Create a new analyst, load it from the input stream, and put it into the container if that load succeeded
-        //
-        // Example code:
-        // m_analysts[analystIndex] = new Analyst();
-        // if (m_analysts[analystIndex]->load(inputStream) < 0)
-        // {
-        //     std::cout << "Failed to load " << argc[analystIndex] << std::endl;
-        // }
-        // else
-        //      analystIndex++;
+
+        //Example code:
+        m_analysts[analystIndex] = new Analyst();
+        if (m_analysts[analystIndex]->load(inputStream) < 0)
+        {
+            std::cout << "Failed to load " << argc[analystIndex] << std::endl;
+        }
+        else
+             analystIndex++;
     }
 
     loadSymbols();

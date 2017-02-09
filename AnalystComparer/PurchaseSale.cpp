@@ -3,3 +3,17 @@
 //
 
 #include "PurchaseSale.h"
+
+PurchaseSale::PurchaseSale(std::ifstream)
+{
+
+}
+
+int PurchaseSale::computeInvestmentAmount()
+{
+
+}
+int PurchaseSale::computeProfitLoss()
+{
+
+}
