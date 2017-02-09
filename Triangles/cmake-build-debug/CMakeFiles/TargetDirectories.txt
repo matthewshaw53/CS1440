@@ -1,4 +1,4 @@
-/Users/swc/tmp/cs1440s17-shared/Triangles/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/swc/tmp/cs1440s17-shared/Triangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/swc/tmp/cs1440s17-shared/Triangles/cmake-build-debug/CMakeFiles/Test.dir
-/Users/swc/tmp/cs1440s17-shared/Triangles/cmake-build-debug/CMakeFiles/Triangles.dir
+C:/git/CS1440/Triangles/cmake-build-debug/CMakeFiles/Triangles.dir
+C:/git/CS1440/Triangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/git/CS1440/Triangles/cmake-build-debug/CMakeFiles/Test.dir
+C:/git/CS1440/Triangles/cmake-build-debug/CMakeFiles/edit_cache.dir

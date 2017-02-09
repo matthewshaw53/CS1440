@@ -117,6 +117,8 @@ void EdgeTester::testParallelEdges()
 {
     std::cout << "Execute EdgeTester::testParallelEdges" << std::endl;
 
+
+
     // TODO: Writing a representative set of test cases for edges that are parallel with other
 }
 

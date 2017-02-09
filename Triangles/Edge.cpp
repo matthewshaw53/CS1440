@@ -53,7 +53,7 @@ double Edge::getSlopeX() const
     return result;
 }
 
-// Returns for X-slope of the line
+// Returns for Y-slope of the line
 double Edge::getSlopeY() const
 {
     double result = NAN;

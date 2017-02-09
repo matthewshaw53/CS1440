@@ -180,10 +180,47 @@ void PointTester::testConstructorWithStrings()
         return;
     }
 
+    Point q1("1,2,3");
+    if (!q1.isValid() || !q1.isEquivalentTo(p1))
+    {
+        std::cout << "Failure in constructing Point(\"1,2,3\") isValid()="
+                  << q1.isValid()
+                  << " x=" << q1.getX()
+                  << " y=" << q1.getY()
+                  << " z=" << q1.getZ()
+                  << std::endl;
+        return;
+    }
+
+    Point q2("1,2,3");
+    if (!q2.isValid() || !q2.isEquivalentTo(p2))
+    {
+        std::cout << "Failure in constructing Point(\"1,2,3\") isValid()="
+                  << q2.isValid()
+                  << " x=" << q2.getX()
+                  << " y=" << q2.getY()
+                  << " z=" << q2.getZ()
+                  << std::endl;
+        return;
+    }
+
+    Point q3("1,2,3");
+    if (!q3.isValid() || !q3.isEquivalentTo(p3))
+    {
+        std::cout << "Failure in constructing Point(\"1,2,3\") isValid()="
+                  << q3.isValid()
+                  << " x=" << q3.getX()
+                  << " y=" << q3.getY()
+                  << " z=" << q3.getZ()
+                  << std::endl;
+        return;
+    }
+
     // TODO: Write additional meaningful test cases for Point's string-based constructor
 }
 
-void PointTester::testInvalid() {
+void PointTester::testInvalid()
+{
     std::cout << "Execute PointTester::testInvalid" << std::endl;
 
 
