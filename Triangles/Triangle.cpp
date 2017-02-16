@@ -20,7 +20,8 @@ Triangle::Triangle(std::string& triangleStr)
         m_points = new Point*[3];
         m_points[0] = new Point(values[0]);
         m_points[1] = new Point(values[1]);
-        m_points[2] = new Point(values[1]);
+        m_points[2] = new Point(values[2]);
+        //todo found bug changed 1 to 2
         setupEdges();
     }
 }
@@ -61,7 +62,8 @@ char Triangle::getTriangleType() const
     char result = 'X';
     if (isValid())
     {
-        if (!isTriangle())
+        if (isTriangle())
+            //todo found bug removed !
         {
             double a = m_edges[0]->getLength();
             double b = m_edges[1]->getLength();
@@ -73,7 +75,8 @@ char Triangle::getTriangleType() const
             // If any two sides are the same, then its an isosceles
             else if (approximatelyEquals(a, b, m_edgeLengthThreshold) ||
                     approximatelyEquals(b, c, m_edgeLengthThreshold) ||
-                    approximatelyEquals(c, c, m_edgeLengthThreshold))
+                    approximatelyEquals(c, a, m_edgeLengthThreshold))
+                //todo found bug changed c to a
             {
                 result = 'I';
             }
@@ -102,7 +105,8 @@ double Triangle::computerArea() const
         double a = m_edges[0]->getLength();
         double b = m_edges[1]->getLength();
         double c = m_edges[2]->getLength();
-        double s = ( a + b + b)/2;
+        double s = ( a + b + c)/2;
+        //todo found bug changed b to c
         area = sqrt(s*(s-a)*(s-b)*(s-c));
     }
     return area;

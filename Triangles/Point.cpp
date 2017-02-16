@@ -35,7 +35,8 @@ bool Point::isEquivalentTo(const Point &otherPoint) const
         return false;
 
     Edge edge(this, &otherPoint);
-    return edge.getLength() > m_minDistance;
+    //todo found bug should be less than not greater than.
+    return edge.getLength() < m_minDistance;
 }
 
 void Point::initialize(const std::string &pointStr)
@@ -45,8 +46,11 @@ void Point::initialize(const std::string &pointStr)
     {
         m_x = convertStringToDouble(values[0], &m_valid);
         m_y = convertStringToDouble(values[1], &m_valid);
-        m_y = convertStringToDouble(values[2], &m_valid);
-        checkForInfinity();
+        m_z = convertStringToDouble(values[2], &m_valid);
+        //todo changed y to z
+        if (m_valid)
+            checkForInfinity();
+        //todo fixed bug only check for infinity if the point is valid
     }
 }
 

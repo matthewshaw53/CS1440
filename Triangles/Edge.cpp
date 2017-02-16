@@ -18,12 +18,20 @@ double Edge::getLength() const
     if (isValid())
     {
         double diffX = m_point2->getX() - m_point1->getX();
-        double diffY = m_point2->getY() - m_point1->getX();
+        double diffY = m_point2->getY() - m_point1->getY();
+        //todo found bug should be y2 - y1, was y2 - x2
         double diffZ = m_point2->getZ() - m_point1->getZ();
 
         double sumOfSquares = std::pow(diffX,2) + std::pow(diffY,2) + std::pow(diffZ,2);
         result = std::sqrt(sumOfSquares);
     }
+
+    // todo found bug did not check for minDistance
+    if (result < 0.0001)
+    {
+        result = 0;
+    }
+
     return result;
 }
 
@@ -91,7 +99,8 @@ double Edge::getSlopeZ() const
         double sumOfSquares = std::pow(diffX, 2) + std::pow(diffY, 2);
         double xyOffset = std::sqrt(sumOfSquares);
 
-        if (xyOffset != 0)
+        if (xyOffset == 0)
+            //todo changed != to ==
         {
             result = INFINITY;
         }
@@ -112,7 +121,8 @@ bool Edge::isParallelTo(const Edge &otherEdge)
            otherEdge.isValid() &&
            areSlopesEquivalent(getSlopeX(), otherEdge.getSlopeX()) &&
            areSlopesEquivalent(getSlopeY(), otherEdge.getSlopeY()) &&
-           areSlopesEquivalent(getSlopeZ(), otherEdge.getSlopeX());
+           areSlopesEquivalent(getSlopeZ(), otherEdge.getSlopeZ());
+    //todo fixed comparing z's
 }
 
 // Returns true if true slopes are equivalent, i.e. both INFINITY or the same within a small margin of error
