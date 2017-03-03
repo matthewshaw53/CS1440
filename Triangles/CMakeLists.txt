@@ -22,4 +22,5 @@ set(TEST_FILES Testing/PointTester.cpp
                Testing/TriangleTester.h
                Testing/UtilsTester.cpp
                Testing/UtilsTester.h)
+
 add_executable(Test Testing/testMain.cpp ${TEST_FILES} ${SOURCE_FILES} )

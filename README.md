@@ -1,2 +1,2 @@
-# CS1440
-CS1440 assignments
+This repository is for students materials for CS1440
+

@@ -1,0 +1,4 @@
+C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Bingo.dir
+C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir
+C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,14 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AnalystComparer.dir/main.cpp.obj"
-  "CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
-  "CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
-  "CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
-  "CMakeFiles/AnalystComparer.dir/History.cpp.obj"
-  "CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
+  "CMakeFiles/AnalystComparer.dir/main.cpp.o"
+  "CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
+  "CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
   "AnalystComparer.pdb"
-  "AnalystComparer.exe"
-  "AnalystComparer.exe.manifest"
-  "libAnalystComparer.dll.a"
+  "AnalystComparer"
 )
 
 # Per-language clean rules from dependency scanning.

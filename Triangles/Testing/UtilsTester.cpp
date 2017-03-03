@@ -4,10 +4,9 @@
 
 #include "UtilsTester.h"
 
-#include <limits>
-//todo had to include limits library
 #include <iostream>
 #include <cmath>
+#include <limits>
 
 #include "../Utils.h"
 
@@ -158,7 +157,7 @@ void UtilsTester::testConvertToDouble()
 
     s = "INF";
     result = convertStringToDouble(s, &isValid);
-    if (result != std::numeric_limits<double>::infinity() || !isValid) {
+    if (result != INFINITY || !isValid) {
         std::cout << "Failure in convertStringToDouble(s, &isValid) for s=\"" << s
                   << "\" result=" << result << " isValid=" << isValid << std::endl;
         return;
@@ -166,8 +165,16 @@ void UtilsTester::testConvertToDouble()
 
     s = "INFINITY";
     result = convertStringToDouble(s, &isValid);
-    if (result != std::numeric_limits<double>::infinity() || !isValid) {
+    if (result != INFINITY || !isValid) {
         std::cout << "Failure in convertStringToDouble(s, &isValid) for s=\"" << s
+                  << "\" result=" << result << " isValid=" << isValid << std::endl;
+        return;
+    }
+
+    s = "123.4567";
+    result = convertStringToDouble(s, nullptr);
+    if (result != 123.4567) {
+        std::cout << "Failure in convertStringToDouble(s) for s=\"" << s
                   << "\" result=" << result << " isValid=" << isValid << std::endl;
         return;
     }
@@ -206,13 +213,6 @@ void UtilsTester::testConvertToDouble()
         return;
     }
 
-    s = "123.4567";
-    result = convertStringToDouble(s, nullptr);
-    if (result != 123.4567) {
-        std::cout << "Failure in convertStringToDouble(s) for s=\"" << s
-                  << "\" result=" << result << " isValid=" << isValid << std::endl;
-        return;
-    }
 }
 
 void UtilsTester::testForNormalCases()

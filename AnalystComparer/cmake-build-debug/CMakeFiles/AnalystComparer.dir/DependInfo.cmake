@@ -4,14 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/git/CS1440/AnalystComparer/Analyst.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
-  "C:/git/CS1440/AnalystComparer/Comparer.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
-  "C:/git/CS1440/AnalystComparer/History.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.obj"
-  "C:/git/CS1440/AnalystComparer/PurchaseSale.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
-  "C:/git/CS1440/AnalystComparer/Utils.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
-  "C:/git/CS1440/AnalystComparer/main.cpp" "C:/git/CS1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.obj"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/Comparer.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/Utils.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/main.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
