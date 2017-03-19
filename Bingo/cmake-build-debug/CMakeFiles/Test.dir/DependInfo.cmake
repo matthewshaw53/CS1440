@@ -4,18 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/git/CS1440/Bingo/Card.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Card.cpp.obj"
-  "C:/git/CS1440/Bingo/Deck.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Deck.cpp.obj"
-  "C:/git/CS1440/Bingo/Menu.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.obj"
-  "C:/git/CS1440/Bingo/MenuOption.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.obj"
-  "C:/git/CS1440/Bingo/Testing/CardTester.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/CardTester.cpp.obj"
-  "C:/git/CS1440/Bingo/Testing/DeckTester.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/DeckTester.cpp.obj"
-  "C:/git/CS1440/Bingo/Testing/MenuOptionTester.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuOptionTester.cpp.obj"
-  "C:/git/CS1440/Bingo/Testing/MenuTester.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuTester.cpp.obj"
-  "C:/git/CS1440/Bingo/Testing/testMain.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.obj"
-  "C:/git/CS1440/Bingo/UserInterface.cpp" "C:/git/CS1440/Bingo/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.obj"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Deck.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Deck.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuOptionTester.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuOptionTester.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuTester.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuTester.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/testMain.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.o"
+  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/UserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

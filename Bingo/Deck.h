@@ -7,26 +7,16 @@
 
 #include <ostream>
 
-#include "Card.h"
-
-class Card;
-
 // TODO: Extend this definition as you see fit
 
 class Deck {
-friend class Card;
+
 public:
     Deck(int cardSize, int cardCount, int numberMax);
     ~Deck();
 
-    void print(std::ostream& out);
-    void print(std::ostream& out, int cardIndex);
-    std::vector<Card> getDeck() { return m_deck; }
-    const int getDeckSize() { return m_deckSize; }
-
-private:
-    std::vector<Card> m_deck;
-    const int m_deckSize;
+    void print(std::ostream& out) const;
+    void print(std::ostream& out, int cardIndex) const;
 };
 
 #endif //BINGO_DECK_H

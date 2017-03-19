@@ -6,39 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/git/CS1440/Bingo/Card.cpp
-Card.h
-C:/git/CS1440/Bingo/Card.h
-iostream
--
-chrono
--
-random
--
-algorithm
--
-
-C:/git/CS1440/Bingo/Card.h
-vector
--
-
-C:/git/CS1440/Bingo/Deck.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Deck.cpp
 Deck.h
-C:/git/CS1440/Bingo/Deck.h
-iostream
--
-iomanip
--
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Deck.h
 
-C:/git/CS1440/Bingo/Deck.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Deck.h
 ostream
 -
-Card.h
-C:/git/CS1440/Bingo/Card.h
 
-C:/git/CS1440/Bingo/Menu.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.cpp
 Menu.h
-C:/git/CS1440/Bingo/Menu.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.h
 locale
 -
 string.h
@@ -48,79 +26,53 @@ iostream
 iomanip
 -
 
-C:/git/CS1440/Bingo/Menu.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.h
 MenuOption.h
-C:/git/CS1440/Bingo/MenuOption.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.h
 
-C:/git/CS1440/Bingo/MenuOption.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.cpp
 MenuOption.h
-C:/git/CS1440/Bingo/MenuOption.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.h
 
-C:/git/CS1440/Bingo/MenuOption.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.h
 string
 -
 
-C:/git/CS1440/Bingo/Testing/CardTester.cpp
-CardTester.h
-C:/git/CS1440/Bingo/Testing/CardTester.h
-../Card.h
-C:/git/CS1440/Bingo/Card.h
-iostream
--
-algorithm
--
-
-C:/git/CS1440/Bingo/Testing/CardTester.h
-
-C:/git/CS1440/Bingo/Testing/DeckTester.cpp
-DeckTester.h
-C:/git/CS1440/Bingo/Testing/DeckTester.h
-../Deck.h
-C:/git/CS1440/Bingo/Deck.h
-iostream
--
-
-C:/git/CS1440/Bingo/Testing/DeckTester.h
-
-C:/git/CS1440/Bingo/Testing/MenuOptionTester.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuOptionTester.cpp
 MenuOptionTester.h
-C:/git/CS1440/Bingo/Testing/MenuOptionTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuOptionTester.h
 ../MenuOption.h
-C:/git/CS1440/Bingo/MenuOption.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.h
 iostream
 -
 
-C:/git/CS1440/Bingo/Testing/MenuOptionTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuOptionTester.h
 
-C:/git/CS1440/Bingo/Testing/MenuTester.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuTester.cpp
 MenuTester.h
-C:/git/CS1440/Bingo/Testing/MenuTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuTester.h
 ../MenuOption.h
-C:/git/CS1440/Bingo/MenuOption.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/MenuOption.h
 ../Menu.h
-C:/git/CS1440/Bingo/Menu.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.h
 iostream
 -
 
-C:/git/CS1440/Bingo/Testing/MenuTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuTester.h
 
-C:/git/CS1440/Bingo/Testing/testMain.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/testMain.cpp
 iostream
 -
 ctime
 -
 MenuOptionTester.h
-C:/git/CS1440/Bingo/Testing/MenuOptionTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuOptionTester.h
 MenuTester.h
-C:/git/CS1440/Bingo/Testing/MenuTester.h
-CardTester.h
-C:/git/CS1440/Bingo/Testing/CardTester.h
-DeckTester.h
-C:/git/CS1440/Bingo/Testing/DeckTester.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Testing/MenuTester.h
 
-C:/git/CS1440/Bingo/UserInterface.cpp
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/UserInterface.cpp
 UserInterface.h
-C:/git/CS1440/Bingo/UserInterface.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/UserInterface.h
 iostream
 -
 iomanip
@@ -128,11 +80,11 @@ iomanip
 fstream
 -
 Deck.h
-C:/git/CS1440/Bingo/Deck.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Deck.h
 Menu.h
-C:/git/CS1440/Bingo/Menu.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/Menu.h
 
-C:/git/CS1440/Bingo/UserInterface.h
+/Users/swc/Dropbox/UnderGit/cs1440s17-shared/Bingo/UserInterface.h
 string
 -
 
