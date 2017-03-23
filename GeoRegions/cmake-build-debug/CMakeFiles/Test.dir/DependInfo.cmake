@@ -4,25 +4,25 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/City.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/City.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/County.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/County.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/CountyUserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/CountyUserInterface.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Menu.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/MenuOption.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Nation.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Nation.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/NationUserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/NationUserInterface.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Region.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Region.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/State.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/State.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/StateUserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/StateUserInterface.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Testing/RegionTester.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/RegionTester.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Testing/UtilsTester.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/UtilsTester.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Testing/testMain.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/UserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/Utils.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Utils.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/World.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/World.cpp.o"
-  "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/WorldUserInterface.cpp" "/Users/swc/Dropbox/UnderGit/cs1440s17-shared/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/WorldUserInterface.cpp.o"
+  "C:/git/CS1440/GeoRegions/City.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/City.cpp.obj"
+  "C:/git/CS1440/GeoRegions/County.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/County.cpp.obj"
+  "C:/git/CS1440/GeoRegions/CountyUserInterface.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/CountyUserInterface.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Menu.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.obj"
+  "C:/git/CS1440/GeoRegions/MenuOption.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Nation.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Nation.cpp.obj"
+  "C:/git/CS1440/GeoRegions/NationUserInterface.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/NationUserInterface.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Region.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Region.cpp.obj"
+  "C:/git/CS1440/GeoRegions/State.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/State.cpp.obj"
+  "C:/git/CS1440/GeoRegions/StateUserInterface.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/StateUserInterface.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Testing/RegionTester.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/RegionTester.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Testing/UtilsTester.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/UtilsTester.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Testing/testMain.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.obj"
+  "C:/git/CS1440/GeoRegions/UserInterface.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.obj"
+  "C:/git/CS1440/GeoRegions/Utils.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/Utils.cpp.obj"
+  "C:/git/CS1440/GeoRegions/World.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/World.cpp.obj"
+  "C:/git/CS1440/GeoRegions/WorldUserInterface.cpp" "C:/git/CS1440/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir/WorldUserInterface.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

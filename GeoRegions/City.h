@@ -7,4 +7,15 @@
 
 // TODO: Finish definition for a County class
 
+#include "Region.h"
+
+#include <string>
+
+class City : public Region
+{
+public:
+    City(const std::string data[]);
+};
+
+
 #endif //GEO_REGIONS_CITY_H

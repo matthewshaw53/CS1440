@@ -19,12 +19,19 @@ protected:
     double          m_area = 0;
     bool            m_isValid = false;
 
-    // TODO: Add data members to manage sub-regions
+    int             m_regionCount = 0;
+    int             m_allocated = 0;
+    Region**        m_regions = nullptr;
+
+    // DONE: Add data members to manage sub-regions
 
 private:
     static unsigned int m_nextId;
 
+
+
 public:
+
     static Region* create(std::istream &in);
     static Region* create(const std::string& data);
     static Region* create(RegionType regionType, const std::string& data);
@@ -46,21 +53,28 @@ public:
     double getArea() const { return m_area; }
     void setArea(double area) { m_area = area; }
     bool getIsValid() const { return m_isValid; }
+    Region* findRegionId(unsigned int id);
+    void removeRegion(Region* region);
+
 
     // TODO: Add methods to manage sub-regions
 
     // TODO: Add method to compute total population, as m_population + the total population for all sub-regions
-    unsigned int computeTotalPopulation();
+    unsigned int computeTotalPopulation(unsigned int pop);
 
     void list(std::ostream& out);
     void display(std::ostream& out, unsigned int displayLevel, bool showChild);
     void save(std::ostream& out);
+    int getSubRegionCount() { return m_regionCount; }
+    Region* getSubRegionByIndex(int index);
+    void addRegion(Region*);
 
 protected:
     virtual void validate();
     void loadChildren(std::istream& in);
     static unsigned int getNextId();
 
+    void grow();
     // TODO: add whatever other helper methods you might need
 };
 
