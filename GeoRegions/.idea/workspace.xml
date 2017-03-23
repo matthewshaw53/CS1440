@@ -13,120 +13,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63cdb798-da35-4f5e-aaf2-6acc4cbc9337" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/Deck.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/Menu.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/MenuOption.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/UserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.internal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/main.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/objects.a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/CXX.includecache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Deck.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Menu.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/MenuOption.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuOptionTester.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/MenuTester.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/Testing/testMain.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/UserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.internal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/objects.a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/City.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/County.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/CountyUserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/Menu.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/MenuOption.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/Nation.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/NationUserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/Region.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/State.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/StateUserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/UserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/Utils.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/World.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/WorldUserInterface.cpp.o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/main.cpp.o" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_C.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Bingo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Bingo.cbp" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Bingo.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/build.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/flags.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/link.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/objects1.rsp" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Bingo.dir/objects1.rsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/build.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/flags.make" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/link.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/objects1.rsp" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/Test.dir/objects1.rsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bingo/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../Bingo/cmake-build-debug/cmake_install.cmake" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeoRegions.vpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GeoRegions-Design.vpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/objects.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/objects.a" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/City.cpp" afterPath="$PROJECT_DIR$/City.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/City.h" afterPath="$PROJECT_DIR$/City.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/County.cpp" afterPath="$PROJECT_DIR$/County.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/County.h" afterPath="$PROJECT_DIR$/County.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Region.cpp" afterPath="$PROJECT_DIR$/Region.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Region.h" afterPath="$PROJECT_DIR$/Region.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/State.cpp" afterPath="$PROJECT_DIR$/State.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/State.h" afterPath="$PROJECT_DIR$/State.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing/testMain.cpp" afterPath="$PROJECT_DIR$/Testing/testMain.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UserInterface.cpp" afterPath="$PROJECT_DIR$/UserInterface.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeCXXCompiler.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.6.3/CMakeSystem.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/CXX.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GeoRegions.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/flags.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Test.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/GeoRegions.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/GeoRegions.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing/RegionTester.cpp" afterPath="$PROJECT_DIR$/Testing/RegionTester.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt" afterPath="$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -149,14 +44,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Region.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Region.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Region.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3060">
-              <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+            <state relative-caret-position="820">
+              <caret line="188" column="28" lean-forward="true" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
               <folding>
                 <element signature="e#46#65#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Region.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Region.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="62" column="76" lean-forward="false" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -164,8 +69,8 @@
       <file leaf-file-name="testMain.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Testing/testMain.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+            <state relative-caret-position="442">
+              <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
               <folding>
                 <element signature="e#46#65#0" expanded="true" />
               </folding>
@@ -173,11 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegionTester.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RegionTester.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Testing/RegionTester.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="414" column="0" lean-forward="true" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+            <state relative-caret-position="-513">
+              <caret line="524" column="9" lean-forward="true" selection-start-line="524" selection-start-column="9" selection-end-line="524" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sampleData-1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -186,7 +101,7 @@
       <file leaf-file-name="UserInterface.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserInterface.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-737">
+            <state relative-caret-position="1615">
               <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
               <folding>
                 <element signature="e#47#73#0" expanded="true" />
@@ -203,32 +118,8 @@
         <entry file="file://$PROJECT_DIR$/Nations.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Region.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Region.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-              <folding>
-                <marker date="1490234199551" expanded="true" signature="137:2383" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserInterface.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserInterface.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-              <folding>
-                <marker date="1490231948952" expanded="true" signature="194:832" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -236,28 +127,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="136">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Utils.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Utils.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nation.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Nation.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="67" lean-forward="false" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -292,7 +163,6 @@
         <option value="$PROJECT_DIR$/Testing/DummyRegion.cpp" />
         <option value="$PROJECT_DIR$/Testing/WorldTester.h" />
         <option value="$PROJECT_DIR$/Testing/WorldTester.cpp" />
-        <option value="$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt" />
         <option value="$PROJECT_DIR$/Testing/SampleData/sampleData-1.txt" />
         <option value="$PROJECT_DIR$/Testing/SampleData/sampleData-2.txt" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
@@ -308,7 +178,6 @@
         <option value="$PROJECT_DIR$/Nation.h" />
         <option value="$PROJECT_DIR$/Nation.cpp" />
         <option value="$PROJECT_DIR$/Testing/RegionTester.h" />
-        <option value="$PROJECT_DIR$/Testing/RegionTester.cpp" />
         <option value="$PROJECT_DIR$/Menu.cpp" />
         <option value="$PROJECT_DIR$/State.h" />
         <option value="$PROJECT_DIR$/County.h" />
@@ -319,9 +188,11 @@
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/UserInterface.h" />
         <option value="$PROJECT_DIR$/UserInterface.cpp" />
+        <option value="$PROJECT_DIR$/Testing/testMain.cpp" />
+        <option value="$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt" />
         <option value="$PROJECT_DIR$/Region.h" />
         <option value="$PROJECT_DIR$/Region.cpp" />
-        <option value="$PROJECT_DIR$/Testing/testMain.cpp" />
+        <option value="$PROJECT_DIR$/Testing/RegionTester.cpp" />
       </list>
     </option>
   </component>
@@ -410,7 +281,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bingo" />
+    <property name="last_opened_file_path" value="C:/1410/Assign6MatthewShaw" />
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GeoRegions" TARGET_NAME="GeoRegions" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
@@ -627,12 +498,13 @@
       <workItem from="1489960372227" duration="7440000" />
       <workItem from="1490055168453" duration="8541000" />
       <workItem from="1490143251145" duration="2578000" />
-      <workItem from="1490229914347" duration="4976000" />
+      <workItem from="1490229914347" duration="9195000" />
+      <workItem from="1490301551298" duration="2033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70793000" />
+    <option name="totallyTimeSpent" value="77045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -649,12 +521,11 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15384616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34669557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32502708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32394367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34669557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34669557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -664,6 +535,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32658958" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -703,7 +575,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -805,34 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/World.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -901,9 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="e#46#64#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -911,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="67" lean-forward="false" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="408">
           <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
           <folding>
             <marker date="1490231948952" expanded="true" signature="194:832" ph="{...}" />
@@ -949,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -958,14 +797,14 @@
     <entry file="file://$PROJECT_DIR$/Nations.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserInterface.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-737">
+        <state relative-caret-position="1615">
           <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
           <folding>
             <element signature="e#47#73#0" expanded="true" />
@@ -977,41 +816,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Region.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="11" lean-forward="false" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding>
-            <marker date="1490234199551" expanded="true" signature="137:2383" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/testMain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testing/RegionTester.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-258">
-          <caret line="414" column="0" lean-forward="true" selection-start-line="414" selection-start-column="0" selection-end-line="414" selection-end-column="0" />
+        <state relative-caret-position="191">
+          <caret line="62" column="76" lean-forward="false" selection-start-line="62" selection-start-column="76" selection-end-line="62" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Region.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3060">
-          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+        <state relative-caret-position="820">
+          <caret line="188" column="28" lean-forward="true" selection-start-line="188" selection-start-column="28" selection-end-line="188" selection-end-column="28" />
           <folding>
             <element signature="e#46#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/testMain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/SampleData/sampleData-1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing/RegionTester.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="524" column="9" lean-forward="true" selection-start-line="524" selection-start-column="9" selection-end-line="524" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

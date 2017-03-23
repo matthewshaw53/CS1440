@@ -146,11 +146,11 @@ std::string Region::getRegionLabel() const
     return regionLabel(getType());
 }
 
-unsigned int Region::computeTotalPopulation(unsigned int pop)
+unsigned long long int Region::computeTotalPopulation(unsigned long long int pop)
 {
     // DONE: implement computeTotalPopulation, such that the result is m_population + the total population for all sub-regions
 
-    unsigned int population = pop;
+    unsigned long long int population = pop;
 
     for (int i = 0; i < m_regionCount; ++i)
     {
@@ -185,7 +185,7 @@ void Region::display(std::ostream& out, unsigned int displayLevel, bool showChil
         out << std::setw(displayLevel * TAB_SIZE) << " ";
     }
 
-    unsigned totalPopulation = computeTotalPopulation(m_population);
+    unsigned long long int totalPopulation = computeTotalPopulation(m_population);
     double area = getArea();
     double density = (double) totalPopulation / area;
 
